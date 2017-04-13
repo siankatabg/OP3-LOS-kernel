@@ -3,7 +3,7 @@
 # Linux/arm64 3.18.31 Kernel Configuration
 #
 #### MISC ####
-CONFIG_SCHED_WALT_DEFAULT=y
+# CONFIG_SCHED_WALT_DEFAULT is not set
 
 CONFIG_ARM64=y
 CONFIG_64BIT=y
